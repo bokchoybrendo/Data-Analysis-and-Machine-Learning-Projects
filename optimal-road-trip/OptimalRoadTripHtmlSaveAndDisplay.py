@@ -13,7 +13,7 @@ import os.path
 import random
 import webbrowser
 
-GOOGLE_MAPS_API_KEY = "Your Key Here"
+GOOGLE_MAPS_API_KEY = "AIzaSyAVLokSkQMeNZi4TT9ji_vf0M--N4uhKW0"
 waypoints_file = "my-waypoints-dist-dur.tsv"
 
 #This is the general filename - as shorter routes are discovered the Population fitness score will be inserted into the filename
@@ -26,7 +26,7 @@ thisRunGenerations=5000
 thisRunPopulation_size=100
 
 
-all_waypoints = ["USS Alabama, Battleship Parkway, Mobile, AL",
+all_waypoints = ["New York, NY",
                  "Grand Canyon National Park, Arizona",
                  "Toltec Mounds, Scott, AR",
                  "San Andreas Fault, San Benito County, CA",
