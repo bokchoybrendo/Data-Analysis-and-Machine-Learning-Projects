@@ -75,8 +75,8 @@ all_waypoints = ["New York, NY",
                  "Providence, RI",
                  "Jacksonville, FL",
                  "Raleigh, NC",
-                 "Memphis, TN, USA"
-                 "Nashville, TN, USA",
+                 "Memphis, TN",
+                 "Nashville, TN",
                  "Salt Lake City, UT",
                  "Louisville, KT",
                  "Richmond, VA"]
